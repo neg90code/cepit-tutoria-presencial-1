@@ -46,5 +46,5 @@ Este comando instalará todas las dependencias listadas en el archivo package.js
 ## Ejecución del proyecto
 
 ```sh
-tsc principal.ts
+ts-node principal.ts
 ```
