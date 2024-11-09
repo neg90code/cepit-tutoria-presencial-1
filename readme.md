@@ -15,8 +15,8 @@ Asegúrate de tener instalados los siguientes programas:
 Para verificar que tienes Node y npm instalados, ejecuta los siguientes comandos en tu terminal:
 
 ```sh
-    node -v
-    npm -v
+node -v
+npm -v
 ```
 
 ## Instalación
@@ -26,19 +26,19 @@ Para verificar que tienes Node y npm instalados, ejecuta los siguientes comandos
 Clona el repositorio en tu máquina local, desde tu terminal favorita:
 
 ```sh
-    git clone https://github.com/neg90code/cepit-tutoria-presencial-1.git
+git clone https://github.com/neg90code/cepit-tutoria-presencial-1.git
 ```
 
 Accede al directorio del proyecto:
 
 ```sh
-    cd cepit-tutoria-presencial-1
+cd cepit-tutoria-presencial-1
 ```
 
 Instala las dependencias necesarias usando npm:
 
 ```sh
-    npm install
+npm install
 ```
 
 Este comando instalará todas las dependencias listadas en el archivo package.json.
@@ -46,5 +46,5 @@ Este comando instalará todas las dependencias listadas en el archivo package.js
 ## Ejecución del proyecto
 
 ```sh
-    tsc principal.ts
+tsc principal.ts
 ```
