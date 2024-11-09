@@ -1,0 +1,10 @@
+Crear un programa que permita al usuario ingresar 5 nombres y luego contar cuántos de esos nombres contienen una letra específica.
+1 - Explicar el funcionamiento paso a paso en lenguaje natural.
+2 - Incluir al menos una función en el programa.
+3 - Comentar el código usando dos tipos de comentarios: en línea y descriptivos al inicio de cada función.
+4 - Guardar la función del punto 2 en un archivo separado.
+
+
+
+
+
